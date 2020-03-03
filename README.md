@@ -1,2 +1,2 @@
 # git-github
-Training
+This is for tutorial purposes.
